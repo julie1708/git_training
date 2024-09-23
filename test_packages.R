@@ -1,3 +1,3 @@
 Library(DBI)
-Library(tidyverse) #Often used in data science
+Library(tidyverse) # Load many packages
 Library(RPostgres)
