@@ -1,3 +1,3 @@
 Library(DBI)
-Library(tidyverse) # japapapap
+Library(tidyverse) 
 Library(RPostgres)
